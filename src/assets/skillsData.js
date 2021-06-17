@@ -21,10 +21,10 @@ export const skillList = [
     skillName: "Redux",
     skillUrl: "https://madhavbahl.tech/portfolio-assets/redux.png",
   },
-  /*{
+  {
     skillName: "NodeJS",
     skillUrl: "https://madhavbahl.tech/portfolio-assets/node.png",
-  },*/
+  },
   {
     skillName: "TypeScript",
     skillUrl: "https://madhavbahl.tech/portfolio-assets/ts.png",
@@ -38,9 +38,9 @@ export const skillList = [
     skillUrl: "https://madhavbahl.tech/portfolio-assets/cs.png",
   },
   {
-    skillName: ".NET",
+    skillName: ".NET Core",
     skillUrl:
-      "https://raw.githubusercontent.com/siddhant-roy/Portfolio/main/src/assets/NET_Core_Logo.svg",
+      "https://raw.githubusercontent.com/siddhant-roy/Portfolio/main/src/assets/netcore.png",
   },
   {
     skillName: "MongoDB",
