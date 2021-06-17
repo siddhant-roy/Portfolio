@@ -7,6 +7,7 @@ import Skills from "./../Skills/Skills";
 import Contact from "./../Contact/Contact";
 import "./App.css";
 import NavBar from "../NavBar/NavBar";
+import GoHome from "../GoHome/GoHome";
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
           <Route path="/projects" component={Projects} />
           <Route path="/skills" component={Skills} />
           <Route path="/contact" component={Contact} />
+          <GoHome />
         </div>
       </BrowserRouter>
     </div>
