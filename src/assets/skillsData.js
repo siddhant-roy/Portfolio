@@ -38,9 +38,9 @@ export const skillList = [
     skillUrl: "https://madhavbahl.tech/portfolio-assets/cs.png",
   },
   {
-    skillName: "SQL",
+    skillName: ".NET",
     skillUrl:
-      "https://raw.githubusercontent.com/siddhant-roy/Portfolio/main/src/assets/ms-sql-server.png",
+      "https://raw.githubusercontent.com/siddhant-roy/Portfolio/main/src/assets/NET_Core_Logo.svg",
   },
   {
     skillName: "MongoDB",
