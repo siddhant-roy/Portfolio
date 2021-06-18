@@ -11,31 +11,33 @@ export const skillList = [
   },
   {
     skillName: "JavaScript",
-    skillUrl: "https://madhavbahl.tech/portfolio-assets/js.png",
+    skillUrl:
+      "https://raw.githubusercontent.com/siddhant-roy/Portfolio/main/src/assets/js.png",
   },
   {
     skillName: "React",
-    skillUrl: "https://madhavbahl.tech/portfolio-assets/react.png",
+    skillUrl:
+      "https://raw.githubusercontent.com/siddhant-roy/Portfolio/main/src/assets/react.png",
   },
   {
     skillName: "Redux",
-    skillUrl: "https://madhavbahl.tech/portfolio-assets/redux.png",
+    skillUrl:
+      "https://raw.githubusercontent.com/siddhant-roy/Portfolio/main/src/assets/redux.png",
   },
   {
     skillName: "NodeJS",
-    skillUrl: "https://madhavbahl.tech/portfolio-assets/node.png",
+    skillUrl:
+      "https://raw.githubusercontent.com/siddhant-roy/Portfolio/main/src/assets/node.png",
   },
   {
     skillName: "TypeScript",
-    skillUrl: "https://madhavbahl.tech/portfolio-assets/ts.png",
-  },
-  {
-    skillName: "Java",
-    skillUrl: "https://madhavbahl.tech/portfolio-assets/java.png",
+    skillUrl:
+      "https://raw.githubusercontent.com/siddhant-roy/Portfolio/main/src/assets/ts.png",
   },
   {
     skillName: "C#",
-    skillUrl: "https://madhavbahl.tech/portfolio-assets/cs.png",
+    skillUrl:
+      "https://raw.githubusercontent.com/siddhant-roy/Portfolio/main/src/assets/cs.png",
   },
   {
     skillName: ".NET Core",
@@ -43,7 +45,23 @@ export const skillList = [
       "https://raw.githubusercontent.com/siddhant-roy/Portfolio/main/src/assets/netcore.png",
   },
   {
+    skillName: "C++",
+    skillUrl:
+      "https://raw.githubusercontent.com/siddhant-roy/Portfolio/main/src/assets/cpp.png",
+  },
+  {
+    skillName: "Python",
+    skillUrl:
+      "https://raw.githubusercontent.com/siddhant-roy/Portfolio/main/src/assets/python.png",
+  },
+  {
+    skillName: "Java",
+    skillUrl:
+      "https://raw.githubusercontent.com/siddhant-roy/Portfolio/main/src/assets/java.png",
+  },
+  {
     skillName: "MongoDB",
-    skillUrl: "https://madhavbahl.tech/portfolio-assets/mongo.png",
+    skillUrl:
+      "https://raw.githubusercontent.com/siddhant-roy/Portfolio/main/src/assets/mongo.png",
   },
 ];
