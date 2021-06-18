@@ -10,8 +10,8 @@ const Skills = () => {
   return (
     <div className="section-container">
       <Header
-        heading="My Skills."
-        details="Passionate about new technologies, I keep exploring stuff. Here's the tech stack I've worked with!"
+        heading="My Skills"
+        details="Being passionate about new technologies, I keep exploring stuff. Here's the tech stack I've worked with: "
       />
 
       <div className="skill-card-container">
@@ -20,7 +20,7 @@ const Skills = () => {
         ))}
       </div>
 
-      <FooterLink phrase="Get in " link="touch." toAdress="/contact" />
+      <FooterLink phrase="Get in " link="touch" toAdress="/contact" />
 
       <div className="skills-vector-frame">
         <img src={skillsVector} alt="skills" className="skills-vector" />

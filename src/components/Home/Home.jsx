@@ -10,7 +10,7 @@ class Home extends Component {
   componentDidMount() {
     setTimeout(() => {
       this.setState({ showModal: true });
-    }, 1000);
+    }, 2000);
   }
 
   closeModal = () => {
