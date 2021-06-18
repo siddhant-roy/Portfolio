@@ -27,7 +27,7 @@ export const projectsData = [
     projectUrl: "http://",
   },
   {
-    projectName: "Project",
+    projectName: "Smart City",
     projectDescription:
       "Pokemon was a huge part of our childhood, wasn't it? Talking about pokemon brings back so many memories, but do you remember the details of each pokemon? Probably No! So here I bring you a pokedex to check all pokemons :)",
     imageUrl:
