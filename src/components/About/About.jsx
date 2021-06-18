@@ -9,46 +9,42 @@ const About = () => {
   return (
     <div className="section-container">
       <Header
-        heading="About Me."
-        details="The Lean Programmer | Public speaker | YouTuber | Blogger | Uplifting the student community in the field of tech and personal growth"
+        heading="About Me"
+        details="Developer | SDE Intern @ MFL Educlub | Computer Science Undergrad @ VIT | Uplifting the student community in the field of tech"
       />
 
       <div className="about-main">
         <div className="about-main-left">
-          {/* Sub section 1 */}
-          <h3 className="about-sub-head">Teacher</h3>
+          {/* Subsection 1 */}
+          <h3 className="about-sub-head">Student</h3>
           <p className="about-details">
-            Teaching is my passion, till now, I've taught thousands of students
-            about Programming and Web Development. Check out{" "}
-            <a
-              className="about-link-element"
-              href="http://theleanprogrammer.com/aam"
-            >
-              my free react courses!
+            Currently pursuing a B.Tech degree in Computer Science and
+            Engineering from Vellore Institute of Technology. Check out the{" "}
+            <a className="about-link-element" href="https://chennai.vit.ac.in/">
+              official website!
             </a>
           </p>
 
-          {/* Sub section 2 */}
-          <h3 className="about-sub-head">Blogger</h3>
+          {/* Subsection 2 */}
+          <h3 className="about-sub-head">Developer</h3>
           <p className="about-details">
-            I've been writing blogs from around 3 years now, and became
-            top-blogger on medium twice. Check out{" "}
+            I've been learning new technologies and building projects. Check out{" "}
             <a
               className="about-link-element"
-              href="https://madhavbahl.medium.com/"
+              href="https://github.com/siddhant-roy"
             >
-              my medium blogs today!
+              my Github profile!
             </a>
           </p>
 
-          {/* Sub section 3 */}
-          <h3 className="about-sub-head">Public Speaker</h3>
+          {/* Subsection 3 */}
+          <h3 className="about-sub-head">Aspiring SDE</h3>
           <p className="about-details">
-            Being a passionate public speaker, I've given talks at more than 75
-            events till now! Want me to speak in your event?{" "}
+            I'm actively looking for internship opportunities. Have a great
+            opportunity for me?{" "}
             <a
               className="about-link-element"
-              href="mailto:info@theleanprogrammer.com"
+              href="mailto:siddhant.roy.official@gmail.com"
             >
               Email me the details!
             </a>

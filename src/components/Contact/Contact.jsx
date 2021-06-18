@@ -6,8 +6,8 @@ import contactVector from "./../../assets/contact_anime.png";
 import github from "./../../assets/gh.png";
 import linkedin from "./../../assets/li.png";
 import instagram from "./../../assets/in.png";
-import medium from "./../../assets/me.png";
-/*import web from "./../../assets/web.png";*/
+/*import medium from "./../../assets/me.png";
+import web from "./../../assets/web.png";*/
 
 const Contact = () => {
   return (
@@ -55,9 +55,9 @@ const Contact = () => {
         <a href="https://instagram.com/" className="social-icon">
           <img src={instagram} alt="social" />
         </a>
-        <a href="https://medium.com/" className="social-icon">
+        {/*<a href="https://medium.com/" className="social-icon">
           <img src={medium} alt="social" />
-        </a>
+        </a>*/}
         {/*<a href="https://madhavbahl.tech" className="social-icon">
           <img src={web} alt="social" />
   </a>*/}
