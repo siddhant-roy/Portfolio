@@ -58,7 +58,7 @@ const Contact = () => {
         {/*<a href="https://medium.com/" className="social-icon">
           <img src={medium} alt="social" />
         </a>*/}
-        {/*<a href="https://madhavbahl.tech" className="social-icon">
+        {/*<a href="https://" className="social-icon">
           <img src={web} alt="social" />
   </a>*/}
       </div>
