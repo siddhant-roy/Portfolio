@@ -5,3 +5,7 @@
 logs
 **/*.backup.*
 **/*.back.*
+node_modules
+.vscode
+build/
+*.ts
